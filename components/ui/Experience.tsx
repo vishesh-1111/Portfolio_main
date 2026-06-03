@@ -12,7 +12,7 @@ type Experience = {
 const experiences = [
   {
     company: "Senda",
-    role: "AI Engineer Intern",
+    role: "AI Engineer",
     duration: "Oct 2025 – Present",
     icon: "🤖",
     description:
